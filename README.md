@@ -8,6 +8,7 @@ Game made for Ludum Dare 49 following the theme "Unstable".<br><br>
   <li> Software: Unity
   <li> Language: C#
   <li> Art software: Krita
+  <li> Audio software: Audacity
 <ul><br><br>
   
 # License
